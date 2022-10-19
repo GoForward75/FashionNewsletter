@@ -1,0 +1,259 @@
+<mjml>
+   <mj-head>
+
+      <mj-title>Business of Fashion Newsletter</mj-title>
+      <mj-attributes>
+         <mj-all padding="0" />
+         <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="16px" color="#000000">
+         <mj-section padding="0" background-color="#ffffff">
+      </mj-attributes>
+   </mj-head>
+
+   <mj-body background-color="#ffffff" width="700px">
+
+      <!-- Logo -->
+      <mj-section background-color="#ffffff">
+         <mj-column padding-top="20px" padding-bottom="40px">
+            <mj-divider border-width="5px" border-color="#000000"  padding-left="5px" padding-right="5px"/>
+         </mj-column>
+      </mj-section>
+
+      <mj-section>
+         <mj-column width="300px">
+            <mj-image src="https://i.ibb.co/nBP1vjZ/logo.png" alt="business of fashion logo" align="center"  />
+         </mj-column>
+      </mj-section>
+
+      <mj-section>
+         <mj-column padding-top="20px" padding-bottom="40px">
+            <mj-divider border-width="2px" border-color="#000000" padding-left="5px" padding-right="5px" />
+         </mj-column>
+      </mj-section>
+      <!--End Logo -->
+
+      <!-- Paragraph text -->
+      <mj-section>
+        <mj-column padding="20px">
+         <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="38px" color="#000000" align="center" padding-bottom="30px">
+            Your Free State of Fashion Report
+         </mj-text>
+         <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="left" padding-bottom="20px" line-height="24px">
+            Dear Joseph,
+         </mj-text>
+          <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="left" line-height="24px" padding-bottom="20px">
+            We hope you’re enjoying the free resources available to you as a member of the BoF community, including daily fashion news, essential email briefings, our latest podcasts, selected digital live events and access to jobs from the industry’s top employers. <br><br>
+
+ 
+
+            If you haven’t already, be sure to download your copy of the <a href="#" style="color:#101b24;font-weight:bold;">State of Fashion: Technology. </a> Created by The Business of Fashion and McKinsey & Company, the report is your guide to all of the key technologies shaping fashion, including a forecast of the top-line impact of the metaverse over the next two to five years. <br><br>
+ 
+ 
+
+            To experience more of our agenda-setting journalism, we invite you to sample some of our recent member-exclusives. Unlocked for you, these articles exemplify the quality and originality of content our team of expert journalists and editors publish every day. <br> <br>
+
+ 
+
+            For unlimited access to BoF Professional content, including daily analysis and advice, in-depth case studies, on-demand masterclasses and member-only digital events you might want to consider upgrading to <strong>BoF Professional Membership.</strong> Your first 30 days costs just £1/$1/€1 with our risk-free trial offer.  We also offer discounts on student and team memberships - <a href="#" style="color:#101b24;">find out more here</a>. <br> <br>
+
+ 
+
+            To ensure you don’t miss the content most relevant to you, remember to <a href="#" style="color:#000000; font-weight:bold;">update your email & newsletter preferences. </a>
+         </mj-text>
+        </mj-column> 
+      </mj-section>
+
+      <mj-section>
+         <mj-column padding-bottom="20px">
+            <mj-divider border-width="2px" border-color="#000000" />
+         </mj-column>
+      </mj-section>
+
+      <!-- End Paragraph text -->
+
+     <!-- Wrapper section -->
+
+     <mj-wrapper background-color="#fafafe">
+         <mj-section background-color="#fafafe">
+            <mj-column padding="20px">
+               <mj-text font-family="Open sans" font-size="26px" color="#101b24" align="center">
+                  Be Inspired by Speakers at Our Global Events
+               </mj-text>
+            </mj-column>
+         </mj-section>
+
+         <mj-section background-color="#fafafe">
+            <mj-column padding="20px" padding-bottom="40px" background-color="#fafafe">
+               <mj-image src="https://i.ibb.co/XyBWfs9/hero.png" alt="several artistes and actors"  padding-bottom="20px"/>
+                  <mj-button background-color="#000000" align="center" inner-padding="15px 30px " font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="16px" padding-bottom="30px">
+                  REGISTER NOW
+                  </mj-button>
+                  <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="center">
+                     Register For BoF VOICES 2022, <strong>November 29 to December 1 </strong> and be joined by Malala, Victoria Beckham, Demna and more......
+                  </mj-text>
+            </mj-column>
+         </mj-section>
+
+       
+     </mj-wrapper>
+     <!-- End Wrapper section -->
+      <mj-section background-color="#ffffff">
+         <mj-column padding-bottom="30px" padding-top="30px">
+            <mj-divider border-width="1px" border-color="#000000" padding-left="5px" padding-right="5px" />
+         </mj-column>
+      </mj-section>
+     <!-- Technology section -->
+      <mj-section>
+         <mj-column padding="20px">
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="14px" color="#101b24" align="left" padding-bottom="5px">
+               TECHNOLOGY
+            </mj-text>
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="28px" color="#000000" align="left" padding-bottom="20px">
+               Your Guide To The Key Technologies Shaping Fashion 
+            </mj-text>
+            <mj-image src="https://i.ibb.co/vmTpTk4/state-of-fashion.png" alt="graffiti - the state of fashion" padding-bottom="20px" />
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="left" padding-bottom="30px" line-height="24px">
+               Explore how technologies can alleviate real pain points and have a tangible impact on business results.
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="24px" color="#101b24" align="left">
+                → DOWNLOAD NOW
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+       <mj-section background-color="#ffffff">
+         <mj-column padding-bottom="10px" padding-top="10px">
+            <mj-divider border-width="1px" border-color="#000000" padding-left="5px" padding-right="5px" />
+         </mj-column>
+      </mj-section>
+
+            <mj-section>
+         <mj-column padding="20px">
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="14px" color="#101b24" align="left" padding-bottom="5px">
+               TECHNOLOGY
+            </mj-text>
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="28px" color="#000000" align="left" padding-bottom="20px">
+               How Fashion Is Using NFTs to Sell Exclusive Physical Products
+            </mj-text>
+            <mj-image src="https://i.ibb.co/xYykdVX/nft-image.jpg" alt="graffiti - the state of fashion" padding-bottom="20px" />
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="left" padding-bottom="30px" line-height="24px">
+              Brands like Tiffany, Prada and Nike-owned RTFKT are among those using the digital tokens to offer exclusive access to tangible goods
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="24px" color="#101b24" align="left">
+               → READ MORE
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+         <mj-column padding-bottom="10px" padding-top="10px">
+            <mj-divider border-width="1px" border-color="#000000" padding-left="5px" padding-right="5px" />
+         </mj-column>
+      </mj-section>
+      <!-- End technology section -->
+         
+      <!-- Sustainability section -->
+         <mj-section>
+            <mj-column padding="20px">
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="14px" color="#101b24" align="left" padding-bottom="5px">
+               TECHNOLOGY
+            </mj-text>
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="28px" color="#000000" align="left" padding-bottom="20px">
+               Telfar Bags, Vegan Leather and an Unexpected Lesson
+            </mj-text>
+            <mj-image src="https://i.ibb.co/nMCp1D0/bag-image.jpg" alt="graffiti - the state of fashion" padding-bottom="20px" />
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="left" padding-bottom="30px" line-height="24px">
+              The response to a tweet about the durability of Telfar’s Shopping bags contains an important takeaway for brands navigating the complex sustainable fashion space.
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="24px" color="#101b24" align="left">
+               → READ MORE
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+         <mj-column padding-bottom="10px" padding-top="10px">
+            <mj-divider border-width="1px" border-color="#000000" padding-left="5px" padding-right="5px" />
+         </mj-column>
+      </mj-section>
+       <!--End Sustainability section -->
+
+       <!-- Retail section -->
+         <mj-section>
+            <mj-column padding="20px" padding-bottom="50px">
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="14px" color="#101b24" align="left" padding-bottom="5px">
+               RETAIL
+            </mj-text>
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="28px" color="#000000" align="left" padding-bottom="20px">
+               BoF LIVE: Resale’s Greatest Challenge
+            </mj-text>
+            <mj-image src="https://i.ibb.co/NY2jQ8t/greatest-challenge.png" alt="graffiti - the state of fashion" padding-bottom="20px" />
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="20px" color="#000000" align="left" padding-bottom="30px" line-height="24px">
+              Despite growing consumer interest, profitability remains elusive for many online resale platforms. BoF’s Cathaleen Chen and Diana Lee unpack what leaders in the space need to do to turn things around.
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="24px" color="#101b24" align="left">
+               → WATCH NOW
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- End Retail section -->
+
+      <!-- Footer section -->
+      <mj-section background-color="#000000">
+         <mj-column padding="20px">
+            <mj-text font-family="Times New Roman, Times, Berkesville, Georgia, sanserif" font-size="22px" color="#ffffff" align="left" padding-bottom="20px" line-height="16px" padding-top="0px" padding-bottom="20px">
+               The Business of Fashion
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="14px" color="#ffffff" align="left" padding-bottom="0px" line-height="16px" padding-bottom="10px">
+               AGENDA-SETTING INTELLIGENCE, ANALYSIS AND ADVICE FOR THE GLOBAL FASHION COMMUNITY.
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000000">
+         <mj-column padding-bottom="10px" padding-top="10px">
+            <mj-divider border-width="1px" border-color="#efefef" padding-left="5px" padding-right="5px" />
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#000000">
+         <mj-column padding="20px">
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="14px" color="#ffffff" align="left" line-height="28px" padding-bottom="20px" >
+               CONNECT WITH US ON
+            </mj-text>
+            <mj-text align="left" padding-bottom="30px" line-height="20px" >
+               <img src="https://i.ibb.co/n1sd4Tr/facebook.png" alt="facebook logo" width="32px">
+               <img src="https://i.ibb.co/Ph7XtnS/instagram.png" alt="instagram logo" width="32px">
+               <img src="https://i.ibb.co/thNwBCf/youtube.png" alt="snapchat logo" width="32px">
+               <img src="https://i.ibb.co/dDqD9sJ/spotify.png" alt="spotify logo" width="32px">
+               <img src="https://i.ibb.co/SmrgYvh/twittter.png" alt="twitter logo" width="32px">
+               <img src="https://i.ibb.co/thNwBCf/youtube.png" alt="youtube logo" width="32px">
+
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="16px" color="#ffffff" align="left" padding-bottom="10px" line-height="28px" padding-bottom="30px" >
+               → CONTACT US <br> 
+
+               → ETHICS POLICY <br>
+
+               → SPONSORSHIP & ADVERTISING <br>
+
+               → JOB OPPORTUNITIES <br>
+            </mj-text>
+            <mj-text font-family="Helvetica Neue, Helvetica, Georgia, sanserif" font-size="12px" color="#ffffff" align="left" padding-bottom="20px" line-height="16px" padding-bottom="10px">
+               This email was sent to <a href="#" style="color:orange; text-decoration:none;">jbalogun094@gmail.com</a>
+
+               Update <a href="#" style="color:white;">preferences</a> or <a href="#" style="color:white;">unsubscribe</a> from this list. All services provided are subject to our Privacy Policy.
+
+
+               The Business of Fashion Ltd <br>
+
+               The Business of Fashion, Soho Works 2, Television Centre, 101 Wood Lane, London, W12 7FR, UK
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!--End  Footer section -->
+
+
+
+   </mj-body>
+</mjml>
